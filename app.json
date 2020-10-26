@@ -1,0 +1,32 @@
+{
+    "name": "Next-Gen Note Taker",
+    "description": "This app writes business notes, retrieves notes, and deletes them.",
+    "keywords": [
+        "productivity",
+        "express",
+        "bootcamp",
+        "node",
+        "notes"
+    ],
+    "website": "null",
+    "repository": "https://github.com/SiyandaMaykiso/Note-Taker",
+    "success_url": "/",
+    "formation": {
+        "web": {
+            "quantity": 2,
+            "size": "Performance-M"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://phantomjs.org"
+        }
+    ],
+    "environments": {
+        "test": {
+            "scripts": {
+                "test": "jest"
+            }
+        }
+    }
+}
