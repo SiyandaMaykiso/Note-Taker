@@ -1,7 +1,7 @@
 {
   "name": "next-gen note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is an application that creates notes for users",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
