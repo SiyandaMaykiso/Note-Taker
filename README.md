@@ -6,6 +6,6 @@ Being able to take persistent notes allows users to have written information ava
 
 This application provides this funtionality
 
-Web Application: https://tranquil-woodland-39142.herokuapp.com
+Web Application: https://git.heroku.com/arcane-brushlands-27472.git
 
 Github Repo: https://github.com/SiyandaMaykiso/Note-Taker
